@@ -1,0 +1,562 @@
+
+{
+    "emails": [{
+      "id": 1596337038535,
+      "headers": {
+        "sentDate": 1595715799505,
+        "from": "aaa@example.com",
+        "to": [
+          "zzz.zz12z@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "[ HR-888 ] Notice of official announcement",
+        "cc": [
+          "paul1@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by aaaa</p>"
+      },
+      "content": "<p> Example #0 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595715799505,
+            "from": "aaa@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[ HR-888 ] Notice of official announcement",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 0 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by aaa</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595715799505,
+            "from": "aaa@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[ HR-888 ] Notice of official announcement",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 0 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by aaa</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038515,
+      "headers": {
+        "sentDate": 1595629434480,
+        "from": "bbb.bbbb@example.com",
+        "to": [
+          "yyy@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "[web:333] \"Web Contact\"",
+        "cc": [
+          "paul2@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by bbb</p>"
+      },
+      "content": "<p> Example #1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [{
+        "url": "src/assets/files/result.pdf",
+        "ext": "pdf",
+        "name": "result"
+      }],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595629434480,
+            "from": "bbb.bbbb@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[web:333] \"Web Contact\"",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 1 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by bbb</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595629434480,
+            "from": "bbb.bbbb@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[web:333] \"Web Contact\"",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 1 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by bbb</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038536,
+      "headers": {
+        "sentDate": 1595543034480,
+        "from": "ccc@example.com",
+        "to": [
+          "xxx@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "Happy New Year! Greetings for the New Year.",
+        "cc": [
+          "paul3@hotmail.com",
+          "paul4@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by ccc</p>"
+      },
+      "content": "<p> Example #2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [{
+        "url": "src/assets/files/result.pdf",
+        "ext": "pdf",
+        "name": "result"
+      }],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595543034480,
+            "from": "ccc@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "Happy New Year! Greetings for the New Year.",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 2 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by ccc</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595543034480,
+            "from": "ccc@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "Happy New Year! Greetings for the New Year.",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 2 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by ccc</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038539,
+      "headers": {
+        "sentDate": 1595456634480,
+        "from": "ddd.dddd@exam.com",
+        "to": [
+          "vvv.vvv@example.com",
+          "fff.fff@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "[HR-887(Revised: Office Expansion Project Team)] Notice of off...",
+        "cc": [
+          "paul4@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by ddd</p>"
+      },
+      "content": "<p> Example #3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [{
+        "url": "src/assets/files/result.pdf",
+        "ext": "pdf",
+        "name": "result"
+      }],
+      "replies": []
+    },
+    {
+      "id": 1596337038538,
+      "headers": {
+        "sentDate": 1595370234480,
+        "from": "eee@example.com",
+        "to": [
+          "sss@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "[Github] Logout page",
+        "cc": [
+          "paul5@hotmail.com",
+          "paul6@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by eee</p>"
+      },
+      "content": "<p> Example #4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595370234480,
+            "from": "eee@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[Github] Logout page",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 4 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by eee</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595370234480,
+            "from": "eee@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[Github] Logout page",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 4 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by eee</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038528,
+      "headers": {
+        "sentDate": 1595283834480,
+        "from": "fff.ffff@example.com",
+        "to": [
+          "qqq.qqq@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "[dev]Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+        "cc": [
+          "paul6@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by fff</p>"
+      },
+      "content": "<p> Example #5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595283834480,
+            "from": "fff.ffff@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[dev]Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 5 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by fff</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595283834480,
+            "from": "fff.ffff@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[dev]Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 5 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by fff</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038531,
+      "headers": {
+        "sentDate": 1595197434480,
+        "from": "ggg@example.com",
+        "to": [
+          "ppp@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "Re: [Github] Brush-up on loading animation",
+        "cc": [
+          "paul9@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by ggg</p>"
+      },
+      "content": "<p> Example #6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595197434480,
+            "from": "ggg@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "Re: [Github] Brush-up on loading animation",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 6 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by ggg</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595197434480,
+            "from": "ggg@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "Re: [Github] Brush-up on loading animation",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 6 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by ggg</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038532,
+      "headers": {
+        "sentDate": 1595111034480,
+        "from": "hhh.hhh@eyahoo.com",
+        "to": [
+          "ooo.ooo@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "Workplace Summary for sample, Inc.: Jun 2 - Jun 9",
+        "cc": [
+          "paul10@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by hhh</p>"
+      },
+      "content": "<p> Example #7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595111034480,
+            "from": "hhh.hhh@examp.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "Workplace Summary for sample, Inc.: Jun 2 - Jun 9",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 7 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by hhh</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595111034480,
+            "from": "hhh.hhh@examp.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "Workplace Summary for sample, Inc.: Jun 2 - Jun 9",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 7 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by hhh</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038533,
+      "headers": {
+        "sentDate": 1595024634480,
+        "from": "iii@example.com",
+        "to": [
+          "nnn@example.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "I love you",
+        "cc": [
+          "paul12@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by iii</p>"
+      },
+      "content": "<p> Example #8 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1595024634480,
+            "from": "iii@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "I love you",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 8 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by iii</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1595024634480,
+            "from": "iii@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "I love you",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 8 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by iii</p>"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1596337038534,
+      "headers": {
+        "sentDate": 1577772000000,
+        "from": "Pablo-Diego-j@example.com",
+        "to": [
+          "Pablo-Diego-José-Francisc@gmail.com",
+          "zzz.zzz@example.com"
+        ],
+        "subject": "[info:888] ABC EQUIPMENT COMPANY",
+        "cc": [
+          "paul33@hotmail.com"
+        ]
+      },
+      "footer": {
+        "content": "<p>sent by pablo</p>"
+      },
+      "content": "<p> Example #9 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa rem neque distinctio ut numquam, omnis quisquam atque sed reprehenderit velit inventore molestiae maiores iste rerum unde maxime minima nobis voluptatum!<p>",
+      "attachments": [],
+      "replies": [
+        {
+          "headers": {
+            "sentDate": 1577772000000,
+            "from": "Pablo-Diego-j@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[info:888] ABC EQUIPMENT COMPANY",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 9 + 1 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n        <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n        <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by pablo</p>"
+          }
+        },
+        {
+          "headers": {
+            "sentDate": 1577772000000,
+            "from": "Pablo-Diego-j@example.com",
+            "to": [
+              "2szz.zzz@example.com"
+            ],
+            "subject": "[info:888] ABC EQUIPMENT COMPANY",
+            "cc": [
+              "george.ul@hotmail.com",
+              "george.ul@hotmail.com"
+            ]
+          },
+          "content": "<p>Examples # 9 + 2 <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae officiis est odio dolores cumque officia, explicabo. Aspernatur adipisci pariatur iusto ut quidem voluptatum enim voluptate deleniti unde, cupiditate recusandae.</span>\n            <span>Ut maiores fugiat eaque, velit sunt asperiores sint temporibus doloremque eum possimus nulla distinctio adipisci commodi, nisi quidem ipsa consequuntur est ratione beatae rerum perspiciatis labore eos quia. Animi, voluptatem.</span>\n            <span>Quod cupiditate molestiae reprehenderit ut veritatis voluptatem earum magni quidem dicta quos ex pariatur, nesciunt vitae, eius atque laborum, ipsum quam rerum facilis enim necessitatibus eaque accusantium. Esse, aperiam vitae?</span></p>",
+          "footer": {
+            "content": "<p>sent by pablo</p>"
+          }
+        }
+      ]
+    }
+  ]
+}
