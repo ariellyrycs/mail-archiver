@@ -1,4 +1,4 @@
-## Mail-archiver Hannge
+## Mail-archiver
 ---
 This is a project specificly developed to get into interview process using vue.js, plain css and webpack.
 
