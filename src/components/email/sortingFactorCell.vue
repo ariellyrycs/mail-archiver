@@ -40,7 +40,7 @@
     }
     
     a.show:after {
-        content: url('../../assets/imgs/icon_arrow01.svg');
+        content: url('../../assets/imgs/arrow1.svg');
         height: 10px;
         width: 10px;
         display: inline-block;

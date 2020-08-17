@@ -28,13 +28,13 @@ describe('Mounted emailListCell', () => {
         });
         let imgs = wrapper.findAll('img');
         expect(imgs.at(0).attributes('src')).toBe(
-            '../../assets/imgs/icon_mail_sp.svg'
+            '../../assets/imgs/mail.svg'
         );
         expect(imgs.at(1).attributes('src')).toBe(
-            '../../assets/imgs/icon_arrow02.svg'
+            '../../assets/imgs/arrow2.svg'
         );
         expect(imgs.at(2).attributes('src')).toBe(
-            '../../assets/imgs/icon_clip.svg'
+            '../../assets/imgs/clip.svg'
         );
         wrapper.destroy();
     });

@@ -56,7 +56,6 @@
         height: calc(100% - 70px);
         width: 100%;
         position: relative;
-        background-image: url(../assets/imgs/logo.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;

@@ -1,10 +1,10 @@
 <template>
     <div class="controls">
         <a href="#" @click.prevent="removeSelection">
-            <img src="../../assets/imgs/icon_arrow02.svg" class="back hide-sm" />
+            <img src="../../assets/imgs/arrow2.svg" class="back hide-sm" />
         </a>
         <a href="#" @click.prevent="removeSelection" class="float-right show-sm">
-            <img src="../../assets/imgs/icon-close.svg" class="close" />
+            <img src="../../assets/imgs/close.svg" class="close" />
         </a>
     </div>
 </template>

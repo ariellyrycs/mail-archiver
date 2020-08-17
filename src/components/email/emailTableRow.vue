@@ -7,7 +7,7 @@
             </div>
         </td>
         <td>{{email.headers.subject}}
-            <a href="#" class="dock-right" v-if="email.attachments.length"><img src="../../assets/imgs/icon_clip.svg" /></a>
+            <a href="#" class="dock-right" v-if="email.attachments.length"><img src="../../assets/imgs/clip.svg" /></a>
         </td>
         <td class="date">{{dateFormat}}</td>
     </tr>

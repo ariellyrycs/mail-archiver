@@ -1,6 +1,6 @@
 <template>
     <div class="mail-list-cell" @click="selectEmail(email)">
-        <img src="../../assets/imgs/icon_mail_sp.svg" class="mail-icon" />
+        <img src="../../assets/imgs/mail.svg" class="mail-icon" />
         <div class="small-font text-overflow">
             <span class="bold">{{email.headers.from}}</span>
             <div class="text-overflow">
@@ -11,9 +11,9 @@
             {{email.headers.subject}}
         </div>
         <div class="dock-right">
-            <span class="small-font">{{dateFormat}} <img src="../../assets/imgs/icon_arrow02.svg" class="right-arrow"></span>
+            <span class="small-font">{{dateFormat}} <img src="../../assets/imgs/arrow2.svg" class="right-arrow"></span>
             <reply-count-box v-bind:replies="email.replies.length"></reply-count-box>
-            <a href="#" v-if="email.attachments.length"><img src="../../assets/imgs/icon_clip.svg" /></a>
+            <a href="#" v-if="email.attachments.length"><img src="../../assets/imgs/clip.svg" /></a>
         </div>
     </div>
 </template>

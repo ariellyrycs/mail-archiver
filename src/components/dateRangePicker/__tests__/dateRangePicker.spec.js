@@ -14,10 +14,10 @@ describe('Mounted DateRangePicker', () => {
         });
         let imgs = wrapper.findAll('img');
         expect(imgs.at(0).attributes('src')).toBe(
-            '../../assets/imgs/icon_calender.svg'
+            '../../assets/imgs/calendar.svg'
         );
         expect(imgs.at(1).attributes('src')).toBe(
-            '../../assets/imgs/icon_search.svg'
+            '../../assets/imgs/search.svg'
         );
         wrapper.destroy();
     });

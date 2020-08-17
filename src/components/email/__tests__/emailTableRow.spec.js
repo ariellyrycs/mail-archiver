@@ -30,7 +30,7 @@ describe('Mounted EmailTableRow', () => {
         let imgs = wrapper.findAll('img');
         expect(imgs.length).toBe(1);
         expect(imgs.at(0).attributes('src')).toBe(
-            '../../assets/imgs/icon_clip.svg'
+            '../../assets/imgs/clip.svg'
         );
     });
     test('load images when attachments', () => {

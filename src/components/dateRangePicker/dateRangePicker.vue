@@ -2,11 +2,11 @@
     <div class="date-range-picker-container" >
         <a href="#" class="search-box-container" @click.prevent="openDatePicker">
             <div class="picker-input">
-                <img src="../../assets/imgs/icon_calender.svg" />
+                <img src="../../assets/imgs/calendar.svg" />
                 <span class="text">{{headStartingDateFormat}} - {{headEndingDateFormat}}</span>
             </div>
             <div class="btn-search">
-                <img src="../../assets/imgs/icon_search.svg" />
+                <img src="../../assets/imgs/search.svg" />
             </div>
         </a>
         <div v-if="showCalendar" class="calendar-container" v-click-outside="closeDatePicker">
