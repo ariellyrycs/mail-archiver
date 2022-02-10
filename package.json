@@ -47,7 +47,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "file-loader": "5.0.2",
     "mocha": "^6.1.4",
-    "node-sass": "~4.13.1",
+    "node-sass": "~7.0.0",
     "prettier": "^1.19.1",
     "sass-loader": "~8.0.2",
     "style-loader": "^1.1.3",
